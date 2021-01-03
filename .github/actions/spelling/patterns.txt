@@ -1,0 +1,9 @@
+# YouTube
+https?://(?:(?:www\.|)youtube\.com|youtu.be)/(?:channel/|embed/|)[-a-zA-Z0-9?&=_]*
+# discord
+/discord(?:app\.com|\.gg)/(?:invite/)?[a-zA-Z0-9]{7,8}
+# medium
+link\.medium\.com/[a-zA-Z0-9]+
+
+# hex digits including css/html color classes:
+(?:[\\0][xX]|\\u|[uU]\+|#x?|\%23)[0-9a-fA-FgGrR_]{2,}[uU]?[lL]{0,2}\b
