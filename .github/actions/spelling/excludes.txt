@@ -1,0 +1,6 @@
+^\.github/
+^LICENSE$
+ignore$
+\.ico$
+\.png$
+\.svg$
